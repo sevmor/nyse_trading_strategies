@@ -1,5 +1,5 @@
-# nyse_trading_strategies
-Trading strategies for NYSE
+# Trading strategies for NYSE
+
 # 📈 Trading Strategies Research Report
 
 ## 1. Research Goal
